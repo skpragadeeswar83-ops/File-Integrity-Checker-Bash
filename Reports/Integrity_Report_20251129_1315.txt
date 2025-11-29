@@ -1,0 +1,12 @@
+============== FILE INTEGRITY REPORT ==============
+Generated On: Sat Nov 29 13:15:39 IST 2025
+
+Total Changes Found: 1
+High Priority (Modified): 1
+Medium Priority (Deleted): 0
+Low Priority (Added): 0
+
+🔴 HIGH PRIORITY — Modified Files:
+[1;31mModified: /Users/pragadeeswar/Documents/test/file1.txt[0m
+
+===================================================

@@ -1,0 +1,1 @@
+[1;31mModified: /Users/pragadeeswar/Documents/test/file1.txt[0m
