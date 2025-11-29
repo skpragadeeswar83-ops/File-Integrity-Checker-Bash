@@ -33,3 +33,16 @@ This tool helps detect such activities by comparing **current file states vs. tr
 
 ## 🏗️ Project Structure
 
+## 📸 Screenshots & Output Demo
+
+### 1️⃣ Create Baseline
+![Baseline Creation](./Screenshots/baseline_creation.png)
+
+### 2️⃣ Integrity Check - No Changes Detected
+![No Changes](./Screenshots/integrity_check_no_changes.png.png)
+
+### 3️⃣ Integrity Check - Modified File Detected
+![Modified Detected](./Screenshots/integrity_check_modified.png)
+
+### 4️⃣ Report Generated
+![Report Generated](./Screenshots/report_generated.png)
